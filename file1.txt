@@ -1,3 +1,3 @@
 hello_git!!!
-Line from user 2
-Another line from user2
+---
+change by user1
