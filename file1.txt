@@ -1,3 +1,7 @@
 hello_git!!!
 ---
+<<<<<<< HEAD
 Please, don't change this!!!
+=======
+change by user2
+>>>>>>> 025c82589d9c7fbc57e36dc778b98e563c40258c
